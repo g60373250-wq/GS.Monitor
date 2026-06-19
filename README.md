@@ -6,12 +6,14 @@
     </tr>
   </thead>
   <tbody>
+   
     <tr>
       <td><b>Windows</b></td>
       <td>
         <a href="https://github.com"><img src="https://shields.io" alt="Windows Setup"></a>
       </td>
     </tr>
+    
     <tr>
       <td><b>Linux</b></td>
       <td>
@@ -22,6 +24,7 @@
 </table>
 
 <br>
+
 
 
 
