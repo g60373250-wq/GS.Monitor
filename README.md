@@ -6,18 +6,16 @@
     </tr>
   </thead>
   <tbody>
-   
     <tr>
       <td><b>Windows</b></td>
       <td>
-        <a href="https://github.com"><img src="https://shields.io" alt="Windows Setup"></a>
+        <a href="https://github.com/g60373250-wq/GS.Monitor/releases/download/v1.0.1/gs-monitor-1.0.1.exe"><img src="https://shields.io" alt="Windows Setup"></a>
       </td>
     </tr>
-    
     <tr>
       <td><b>Linux</b></td>
       <td>
-        <a href="https://github.com"><img src="https://shields.io" alt="Linux Deb"></a>
+        <a href="https://github.com/g60373250-wq/GS.Monitor/releases/download/v1.0.1/gs.monitor_1.0.1_amd64.deb"><img src="https://shields.io" alt="Linux Deb"></a>
       </td>
     </tr>
   </tbody>
